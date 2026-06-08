@@ -1,16 +1,47 @@
-# React + Vite
+# Hi, I'm Nurendra Bhandarigal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Cybersecurity Researcher | VAPT | Bug Bounty Hunter
 
-Currently, two official plugins are available:
+I'm a cybersecurity enthusiast focused on:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* Web Application Security
+* API Security
+* Vulnerability Assessment & Penetration Testing (VAPT)
+* Bug Bounty Hunting
+* OSINT
+* Threat Intelligence
+* Red Teaming
 
-## React Compiler
+### Portfolio
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🔗 https://nurendra-portfolio.pages.dev
 
-## Expanding the ESLint configuration
+### Certifications
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* CEH Master
+* Qualys VMDR
+* Cisco Cybersecurity Analyst
+* Jr Penetration Testing TryHackMe Certificate
+* Multiple Security Training Programs
+
+### Hall of Fame & Security Research
+
+* Hall of Fame Recognitions
+* Reported security vulnerabilities responsibly
+* Identified and disclosed crypto failures (P2) and access control issues including IDOR vulnerabilities (P3)
+
+### Current Focus
+
+* Web Security
+* API Security
+* Threat Detection
+* Security Automation
+* Open Source Security Tools
+
+### Contact
+
+Portfolio: https://nurendra-portfolio.pages.dev
+
+LinkedIn: https://www.linkedin.com/in/nurendra-bhandarigal/
+
+GitHub: https://github.com/nurendraB
