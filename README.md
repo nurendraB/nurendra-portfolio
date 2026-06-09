@@ -21,6 +21,8 @@ I'm a cybersecurity enthusiast focused on:
 * CEH Master
 * Qualys VMDR
 * Cisco Cybersecurity Analyst
+* CNSP Certified Network Security Practitioner
+* CAP Certified AppSec Practitioner
 * Jr Penetration Testing TryHackMe Certificate
 * Multiple Security Training Programs
 
