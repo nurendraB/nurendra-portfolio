@@ -70,3 +70,9 @@ body {
 .tool-marquee:hover {
   animation-play-state: paused;
 }
+
+.turnstile {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+}

@@ -4,7 +4,7 @@ const findings = [
     id: 1,
     title: "Security Research",
     severity: "Research",
-    reward: "xxxx",
+    reward: "xxxxx",
     impact:
       "Continuous security testing, vulnerability research, and web application assessment.",
     achievement:
